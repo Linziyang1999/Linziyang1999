@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziyang
 - 👀 I’m interested in MLLM
-- 🌱 I’m currently an intern in stepfun
+- 🌱 I’m currently an intern in minimax
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qdmengziyang@gmail.com
 
