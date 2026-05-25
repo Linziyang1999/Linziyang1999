@@ -16,19 +16,6 @@
 
 ### 🧑‍🔬 About Me
 
-```python
-class Researcher:
-    def __init__(self):
-        self.name        = "Ziyang"
-        self.role        = "Researcher"
-        self.affiliation = "Stepfun"
-        self.focus       = ["MLLM", "Vision-Language Models"]
-        self.email       = "qdmengziyang@gmail.com"
-
-    def current_work(self):
-        return "Pushing the boundaries of Multimodal Intelligence 🚀"
-```
-
 - 🔬 I’m a **Researcher at Stepfun**, focusing on **Multimodal Large Language Models (MLLMs)**
 - 📖 My research interests include **Vision-Language Models, multimodal reasoning, and alignment**
 - 🤝 Open to collaboration on **MLLM research, open-source projects, and academic papers**
@@ -50,30 +37,6 @@ class Researcher:
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,github,vscode,latex,cpp,bash" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linziyang1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linziyang1999&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linziyang1999&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Linziyang1999&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -87,9 +50,5 @@ class Researcher:
 </p>
 
 ---
-
-<p align="center">
-  <i>"Research is to see what everybody else has seen, and to think what nobody else has thought." — Albert Szent-Györgyi</i>
-</p>
 
 <p align="center">⭐️ From <a href="https://github.com/Linziyang1999">Linziyang1999</a></p>
