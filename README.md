@@ -1,17 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ziyang</h1>
 <h3 align="center">🎓 Researcher @ Stepfun | Multimodal Large Language Models</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Researcher+in+Multimodal+LLMs;Exploring+Vision-Language+Intelligence;Towards+General-Purpose+AI" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Linziyang1999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Linziyang1999?tab=followers">
-    <img src="https://img.shields.io/github/followers/Linziyang1999?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍🔬 About Me
@@ -28,10 +17,10 @@
 
 <table align="center">
   <tr>
-    <td align="center">🖼️<br><b>Vision-Language</b><br>Models</td>
-    <td align="center">🧠<br><b>Multimodal</b><br>Reasoning</td>
-    <td align="center">🎯<br><b>Alignment</b><br>& RLHF</td>
-    <td align="center">🤖<br><b>Foundation</b><br>Models</td>
+    <td align="center"><br><b>Vision-Language</b><br>Models</td>
+    <td align="center"><br><b>Multimodal</b><br>Reasoning</td>
+    <td align="center"><br><b>Alignment</b><br>& RLHF</td>
+    <td align="center"><br><b>Agentic</b><br>& RL</td>
   </tr>
 </table>
 
