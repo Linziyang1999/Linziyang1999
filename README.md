@@ -9,7 +9,6 @@
 - 📖 My research interests include **Vision-Language Models, multimodal reasoning, and alignment**
 - 🤝 Open to collaboration on **MLLM research, open-source projects, and academic papers**
 - 📫 Contact me: **qdmengziyang@gmail.com**
-- ⚡ Fun fact: *The best models, like the best papers, are the ones that surprise you.*
 
 ---
 
@@ -39,5 +38,3 @@
 </p>
 
 ---
-
-<p align="center">⭐️ From <a href="https://github.com/Linziyang1999">Linziyang1999</a></p>
